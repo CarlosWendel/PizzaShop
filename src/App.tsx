@@ -3,7 +3,7 @@ import './global.css'
 
 export function App() {
   return (
-    <div className='flex justify-center items-center h-screen'>
+    <div className="p-4 border custom-border">
       <Button>Enviar</Button>
     </div>
   )
